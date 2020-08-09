@@ -1,4 +1,4 @@
-<a href="https://www.hmwawuda.com" ><img alt="Hammerton Reddit" width="48px" src="./images/hm_logo.png" /></a> 
+<a href="https://www.hmwawuda.com" ><img alt="Hammerton Website" width="48px" src="https://github.com/Hammy25/Hammy25/blob/master/images/hm_logo.png" /></a> 
 # Hi :wave:, My name is Hammerton Mwawuda. 
 
 ## whoami :blush:
@@ -19,15 +19,15 @@ I'm Hammerton Mwawuda, a full-stack developer and security researcher from Nairo
   <img alt="Hammerton Reddit" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 <a href="https://www.hmwawuda.com">
-  <img alt="Hammerton Reddit" width="48px" src="./icons/link.png" />
+  <img alt="Hammerton Website" width="48px" src="https://github.com/Hammy25/Hammy25/blob/master/icons/link.png" />
 </a>
 
 ## Languages and tools :hammer:
-|<img src="./icons/html5.svg" height="96px" width="96px">|<img src="icons/css3.svg" height="96px" width="96px">|<img src="icons/javascript.svg" height="96px" width="96px">|<img src="icons/jquery.svg" >|<img src="icons/react.svg" height="96px" width="96px">|<img src="icons/redux.svg" height="96px" width="96px">|<img src="icons/sass.svg" height="96px" width="96px">|
+|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/html5.svg" height="96px" width="96px">|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/css3.svg" height="96px" width="96px">|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/javascript.svg" height="96px" width="96px">|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/jquery.svg" >|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/react.svg" height="96px" width="96px">|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/redux.svg" height="96px" width="96px">|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/sass.svg" height="96px" width="96px">|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src="icons/d3js.svg" height="96px" width="96px">|<img src="icons/express.svg" height="96px" width="96px">|<img src="icons/webpack.svg" height="96px" width="96px">|<img src="icons/php.svg" height="96px" width="96px">|<img src="icons/wordpress.svg" height="96px" width="96px">|<img src="icons/nodejs.svg" height="96px" width="96px">|<img src="icons/npm.svg" height="96px" width="96px">|
-|<img src="icons/linux.svg" height="96px" width="96px">|<img src="icons/debian.svg" height="96px" width="96px">|<img src="icons/redhat.svg" height="96px" width="96px">|<img src="icons/ssh.svg" height="96px" width="96px">|<img src="icons/python.svg" height="96px" width="96px">|<a title="Hadley Wickham and others at RStudio / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)" href="https://commons.wikimedia.org/wiki/File:R_logo.svg"><img width="96" alt="R logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/96px-R_logo.svg.png"></a>|<img src="icons/git.svg" height="96px" width="96px">|
-|<img src="icons/mysql.svg" height="96px" width="96px">|<img src="icons/postgresql.svg" height="96px" width="96px">|<img src="icons/mongodb.svg" height="96px" width="96px">|
+|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/d3js.svg" height="96px" width="96px">|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/express.svg" height="96px" width="96px">|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/webpack.svg" height="96px" width="96px">|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/php.svg" height="96px" width="96px">|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/wordpress.svg" height="96px" width="96px">|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/nodejs.svg" height="96px" width="96px">|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/npm.svg" height="96px" width="96px">|
+|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/linux.svg" height="96px" width="96px">|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/debian.svg" height="96px" width="96px">|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/redhat.svg" height="96px" width="96px">|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/ssh.svg" height="96px" width="96px">|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/python.svg" height="96px" width="96px">|<a title="Hadley Wickham and others at RStudio / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)" href="https://commons.wikimedia.org/wiki/File:R_logo.svg"><img width="96" alt="R logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/96px-R_logo.svg.png"></a>|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/git.svg" height="96px" width="96px">|
+|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/mysql.svg" height="96px" width="96px">|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/postgresql.svg" height="96px" width="96px">|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/mongodb.svg" height="96px" width="96px">|
 
 :green_book: Currently learning Python Dashboards with Plotly and Dash.
 
