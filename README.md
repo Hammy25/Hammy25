@@ -29,7 +29,7 @@ I'm Hammerton Mwawuda, a full-stack developer and security researcher from Nairo
 |<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/linux.svg" height="96px" width="96px">|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/debian.svg" height="96px" width="96px">|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/redhat.svg" height="96px" width="96px">|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/ssh.svg" height="96px" width="96px">|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/python.svg" height="96px" width="96px">|<a title="Hadley Wickham and others at RStudio / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)" href="https://commons.wikimedia.org/wiki/File:R_logo.svg"><img width="96" alt="R logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/96px-R_logo.svg.png"></a>|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/git.svg" height="96px" width="96px">|
 |<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/mysql.svg" height="96px" width="96px">|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/postgresql.svg" height="96px" width="96px">|<img src="https://github.com/Hammy25/Hammy25/blob/master/icons/mongodb.svg" height="96px" width="96px">|
 
-:green_book: Currently learning Python Dashboards with Plotly and Dash.
+:green_book: Currently learning Mui Material for React.
 
 ## Github Statistics
 
